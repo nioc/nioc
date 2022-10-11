@@ -9,13 +9,16 @@ Web front end for the home automation software Jeedom.
 Plugin to provide a client-server communication over websocket protocol.
 
 [<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Netatmo Node.JS API](https://github.com/nioc/netatmo-nodejs-api)
-API wrapper.
+Node.js wrapper for Netatmo API.
  
 [<img src="https://simpleicons.org/icons/php.svg" height="16"> Netatmo collector](https://github.com/nioc/netatmo-collector)
 PHP script for requesting measures from Netatmo devices.
 
+[<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Synology SRM Node.JS API](https://github.com/nioc/synology-srm-nodejs-api)
+Node.js wrapper for Synology Router Manager (SRM) API.
+
 [<img src="https://simpleicons.org/icons/php.svg" height="16"> Synology SRM PHP API](https://github.com/nioc/synology-srm-php-api)
-API wrapper for Synology Router Manager (SRM).
+PHP wrapper for Synology Router Manager (SRM) API.
 
 
 ### XMPP
@@ -87,6 +90,7 @@ Stay on top of your banking from any web browser.
 [![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](#)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](#)
 
+[![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![TravisCI](https://img.shields.io/badge/travisci-2B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)](#)
 [![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](#)
 
