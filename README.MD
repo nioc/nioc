@@ -1,3 +1,8 @@
+## Languages
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&exclude_repo=&bg_color=00000000&theme=dark)](https://github.com/nioc#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&exclude_repo=&bg_color=00000000&theme=default)](https://github.com/nioc#gh-light-mode-only)
+
 ## Main projects
 
 ### Home automation
