@@ -49,6 +49,9 @@ Android application for browsing photos posted on Tumblr.
 [<img src="https://github.com/nioc/own-my-money/raw/master/docs/icon.png" height="16"> Own My Money](https://github.com/nioc/own-my-money)
 Stay on top of your banking from any web browser.
 
+[<img src="https://github.com/nioc/node-red-contrib-opentelemetry/raw/master/lib/icons/opentelemetry.svg" height="16"> Node-RED OpenTelemetry](https://github.com/nioc/node-red-contrib-opentelemetry)
+Distributed tracing with OpenTelemetry SDK for Node-RED.
+
 
 ## Registry & published packages
 
