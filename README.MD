@@ -1,7 +1,9 @@
+I'm also on [Codeberg](https://codeberg.org/nioc)!
+
 ## Languages
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&exclude_repo=&bg_color=00000000&theme=dark)](https://github.com/nioc#gh-dark-mode-only)
-[![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&exclude_repo=&bg_color=00000000&theme=default)](https://github.com/nioc#gh-light-mode-only)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&theme=dark)](https://github.com/nioc#gh-dark-mode-only)
+[![GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs?username=nioc&layout=compact&langs_count=6&exclude_repo=&bg_color=00000000&theme=default)](https://github.com/nioc#gh-light-mode-only)
 
 ## Main projects
 
@@ -13,16 +15,16 @@ Web front end for the home automation software Jeedom.
 [<img src="https://raw.githubusercontent.com/nioc/jeedom-websocket/master/logo.png" height="16"> Jeedom Websocket](https://github.com/nioc/jeedom-websocket)
 Plugin to provide a client-server communication over websocket protocol.
 
-[<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Netatmo Node.JS API](https://github.com/nioc/netatmo-nodejs-api)
+[<img src="https://cdn.simpleicons.org/nodedotjs" height="16"> Netatmo Node.JS API](https://github.com/nioc/netatmo-nodejs-api)
 Node.js wrapper for Netatmo API.
  
-[<img src="https://simpleicons.org/icons/php.svg" height="16"> Netatmo collector](https://github.com/nioc/netatmo-collector)
+[<img src="https://cdn.simpleicons.org/php" height="16"> Netatmo collector](https://github.com/nioc/netatmo-collector)
 PHP script for requesting measures from Netatmo devices.
 
-[<img src="https://simpleicons.org/icons/nodedotjs.svg" height="16"> Synology SRM Node.JS API](https://github.com/nioc/synology-srm-nodejs-api)
+[<img src="https://cdn.simpleicons.org/nodedotjs" height="16"> Synology SRM Node.JS API](https://github.com/nioc/synology-srm-nodejs-api)
 Node.js wrapper for Synology Router Manager (SRM) API.
 
-[<img src="https://simpleicons.org/icons/php.svg" height="16"> Synology SRM PHP API](https://github.com/nioc/synology-srm-php-api)
+[<img src="https://cdn.simpleicons.org/php" height="16"> Synology SRM PHP API](https://github.com/nioc/synology-srm-php-api)
 PHP wrapper for Synology Router Manager (SRM) API.
 
 
