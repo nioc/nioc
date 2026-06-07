@@ -39,6 +39,9 @@ A tiny little bot making the link between XMPP conversations and webhooks.
 
 ### Media
 
+[<img src="https://codeberg.org/nioc/MilireaderExporter/raw/branch/main/icons/icon-48.png" height="16"> MilireaderExporter](https://codeberg.org/nioc/MilireaderExporter)
+Chrome extension for exporting newspaper from the miLibris reader as PDF and/or EPUB files.
+
 [<img src="https://raw.githubusercontent.com/nioc/web-music-player/master/display/files/favicon/favicon-32x32.png" height="16"> Web Music Player](https://github.com/nioc/web-music-player) **[unmaintained]**
 Play your own music on any device connected to the web (pc, smartphone, tablet, ...). It can work as a standalone application or in your smartphone browser.
 
@@ -48,11 +51,17 @@ Android application for browsing photos posted on Tumblr.
 
 ### Miscellaneous
 
+[<img src="https://raw.githubusercontent.com/nioc/homepage/refs/heads/main/public/favicon.svg" height="16"> Homepage](https://github.com/nioc/homepage)
+Light, simple but attractive and customizable home page to your favorite services.
+
 [<img src="https://github.com/nioc/own-my-money/raw/master/docs/icon.png" height="16"> Own My Money](https://github.com/nioc/own-my-money)
 Stay on top of your banking from any web browser.
 
 [<img src="https://github.com/nioc/node-red-contrib-opentelemetry/raw/master/lib/icons/opentelemetry.svg" height="16"> Node-RED OpenTelemetry](https://github.com/nioc/node-red-contrib-opentelemetry)
 Distributed tracing with OpenTelemetry SDK for Node-RED.
+
+[<img src="https://cdn.simpleicons.org/go" height="16"> RRD JSON Exporter](https://github.com/nioc/rrd-json-exporter)
+Lightweight HTTP service written in Go that exposes data from .rrd (Round Robin Database) files as JSON.
 
 
 ## Registry & published packages
